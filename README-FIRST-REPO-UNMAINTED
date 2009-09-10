@@ -1,0 +1,18 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+I moved this git repository over to
+
+http://git.debian.org/git/collab-main/fio.git
+git clone git://git.debian.org/git/collab-main/fio.git
+
+This repository is not updated anymore.
+
+10.9.2009, Martin Steigerwald
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+
+iEYEARECAAYFAkqo4uIACgkQmRvqrKWZhMc6EwCdH6v6vzNDTb80CfZ3FIzURztD
+KXAAoIzKiOGf9nBIYVZcp+rXf7RDYgyF
+=IWK2
+-----END PGP SIGNATURE-----
